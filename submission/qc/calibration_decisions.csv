@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_002|img_013,loi_may,"YOLO26 goi tuk-tuk va xe ba gac la car hoac truck","luon gan three_wheeler cho moi loai xe 3 banh","muc 2: xe ba banh co mui/thung cho hang van la three_wheeler",v1.1
+CAL-02,img_004|img_018,cau_hoi_mo,"Nguoi lai va nguoi ngoi sau xe may co ve gop vao xe khong","tach rieng person va motorbike","muc 3: nguoi tren xe gan person rieng, xe gan motorbike rieng",v1.1
+CAL-03,img_018|img_021,can_review,"Cum xe may va nguoi o xa duoi 20px dung san sat nhau","dung ignore_region cho cum day dac","muc 4: cum vat the qua nho <20px bao boi mot box ignore_region",v1.1

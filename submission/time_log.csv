@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,25,manual annotation on 4 gold images
+batch_review,24,68,reviewing 24 batch images with prelabel and traps

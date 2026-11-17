@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,PhamCongBang,Ảnh đạt chuẩn, các xe ba bánh đã nhận diện và bao sát
+img_004.jpg,,khong,PhamCongBang,Đã xóa box ma ô tô, các đối tượng đạt chuẩn
+img_008.jpg,,khong,PhamCongBang,Đạt chuẩn, các phương tiện và người đi bộ gán đúng
+img_009.jpg,,khong,PhamCongBang,Đã sửa lỗi gán nhầm lớp person thành bicycle
+img_010.jpg,,khong,PhamCongBang,Đã siết lại bounding box lỏng của người đi bộ
+img_018.jpg,,khong,PhamCongBang,Đạt chuẩn, các cụm xe máy ở xa dưới 20px đã gom ignore_region
+img_021.jpg,,khong,PhamCongBang,Đạt chuẩn, nhãn phân bổ chính xác
+img_035.jpg,,khong,PhamCongBang,Đạt chuẩn sau khi rà soát kỹ các phương tiện
