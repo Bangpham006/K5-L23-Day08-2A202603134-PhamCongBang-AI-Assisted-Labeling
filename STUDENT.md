@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L23
 - Tài khoản GitHub: Bangpham006
 - Repo bài nộp (URL): https://github.com/Bangpham006/K5-L23-Day08-2A202603134-PhamCongBang-AI-Assisted-Labeling.git
-- Commit chốt bài (hash): đang hoàn tất
+- Commit chốt bài (hash): 1096f2a
 - Máy: Windows 11, GPU NVIDIA GeForce RTX 3050 Laptop GPU (4GB VRAM)
 - CVAT (Docker): v2.74.1
 
